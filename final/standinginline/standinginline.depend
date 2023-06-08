@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1654337173 source:d:\i2p2_codes\cplusplus_codes\hw\final\standinginline\main.cpp
+	<iostream>
+	<sstream>
+	<queue>
+	<list>
+	<vector>
+	<algorithm>
+	<map>
+	<set>
+

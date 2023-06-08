@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655126924 source:d:\i2p2_codes\cplusplus_codes\hw\final\puzzle\main.cpp
+	<iostream>
+	<set>
+	<queue>
+	<vector>
+	<list>
+

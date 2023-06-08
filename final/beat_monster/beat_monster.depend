@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1654249918 source:d:\i2p2_codes\cplusplus_codes\hw\final\beat_monster\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<set>
+	<fstream>
+	"function.h"
+	<time.h>
+	<filesystem>
+
+1654250240 d:\i2p2_codes\cplusplus_codes\hw\final\beat_monster\function.h
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<cstring>
+
+1655133974 source:d:\i2p2_codes\cplusplus_codes\hw\final\beat_monster\untitled3.c
+
